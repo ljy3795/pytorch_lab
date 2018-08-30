@@ -1,4 +1,4 @@
-# Lab for PyTorch Deep-learning playground
+# Playground for PyTorch Deep-learning study
 
 #### 1) Tutorial (ref. : https://pytorch.org/tutorials/beginner/nlp/deep_learning_tutorial.html)
 

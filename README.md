@@ -14,5 +14,5 @@
 
 
 #### 2) PyTorch Lab
-- [01_vgg] (https://github.com/ljy3795/pytorch/blob/master/01_vgg.ipynb)
+- [01_vgg](https://github.com/ljy3795/pytorch/blob/master/02_vgg/01_vgg.ipynb)
 - [02_wide_and_deep recomm.]

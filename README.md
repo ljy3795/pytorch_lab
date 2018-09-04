@@ -2,7 +2,7 @@
 
 #### 1) Tutorial (ref. : https://pytorch.org/tutorials/beginner/nlp/deep_learning_tutorial.html)
 
-- [01_tensors](https://github.com/ljy3795/pytorch/blob/master/tuto/01_tensors.ipynb)
+- [01_tensors](https://github.com/ljy3795/pytorch/blob/master/01_tuto/01_tensors.ipynb)
 - [02_autograd](https://github.com/ljy3795/pytorch/blob/master/tuto/02_autograd.ipynb)
 - [02_autograd_2](https://github.com/ljy3795/pytorch/blob/master/tuto/02_autograd_2.ipynb)
 - [03_nn](https://github.com/ljy3795/pytorch/blob/master/tuto/03_nn.ipynb)

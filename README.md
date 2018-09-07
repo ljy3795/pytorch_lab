@@ -15,4 +15,4 @@
 
 #### 2) PyTorch Lab
 - [01_vgg](https://github.com/ljy3795/pytorch/blob/master/02_vgg/01_vgg.ipynb)
-- [02_wide_and_deep recomm.]
+- [02_wide_and_deep recomm.](https://github.com/ljy3795/pytorch/tree/master/03_wide_and_deep/wide_and_deep_for_py3)

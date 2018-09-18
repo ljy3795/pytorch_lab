@@ -14,7 +14,9 @@
 
 
 #### 2) PyTorch Lab
-- [01_vgg](https://github.com/ljy3795/pytorch/blob/master/02_vgg/01_vgg.ipynb)
+- [01_vgg]
+  - [01_vgg_from_scratch](https://github.com/ljy3795/pytorch/blob/master/02_vgg/01_vgg_from_scratch.ipynb)
+  - [01_vgg_from_pretrained](https://github.com/ljy3795/pytorch/blob/master/02_vgg/01_vgg.ipynb)
 - [02_wide_and_deep recommendation](https://github.com/ljy3795/pytorch/tree/master/03_wide_and_deep/wide_and_deep_for_py3)
 - [03_VAE / Autoencoder]
 - [03_DCGAN(MINST)]

@@ -189,3 +189,7 @@ rsconnect/
 
 
 # End of https://www.gitignore.io/api/r,java,python
+
+*_tmp.ipynb
+
+dataset_down

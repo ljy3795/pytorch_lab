@@ -16,8 +16,11 @@
 #### 2) PyTorch Lab
 - [01_vgg](https://github.com/ljy3795/pytorch/tree/master/02_vgg)
   - [01_vgg_from_scratch](https://github.com/ljy3795/pytorch/blob/master/02_vgg/01_vgg_from_scratch.ipynb)
-  - [01_vgg_from_pretrained](https://github.com/ljy3795/pytorch/blob/master/02_vgg/01_vgg.ipynb)
-- [02_wide_and_deep recommendation](https://github.com/ljy3795/pytorch/tree/master/03_wide_and_deep/wide_and_deep_for_py3)
-- [03_VAE / Autoencoder]
-- [03_DCGAN(MINST)]
-- [04_Style Transfer]
+  - [01_vgg_from_pretrained](https://github.com/ljy3795/pytorch/blob/master/02_vgg/01_vgg.ipynb)  
+- [03_deep_matrix_factorization](https://github.com/ljy3795/pytorch/tree/master/03_deep_mf)
+- [04_wide_and_deep recommendation](https://github.com/ljy3795/pytorch/tree/master/04_wide_and_deep/wide_and_deep_for_py3)
+- [05 Sentiment analysis]
+- [06_Autoencoder]
+- [07_VAE]
+- [08_DCGAN(MINST)]
+- [09_Style Transfer]

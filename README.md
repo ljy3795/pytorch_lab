@@ -19,8 +19,9 @@
   - [01_vgg_from_pretrained](https://github.com/ljy3795/pytorch/blob/master/02_vgg/01_vgg.ipynb)  
 - [03_deep_matrix_factorization](https://github.com/ljy3795/pytorch/tree/master/03_deep_mf)
 - [04_wide_and_deep recommendation](https://github.com/ljy3795/pytorch/tree/master/04_wide_and_deep/wide_and_deep_for_py3)
-- [05 Sentiment analysis]
-- [06_Autoencoder]
-- [07_VAE]
-- [08_DCGAN(MINST)]
-- [09_Style Transfer]
+- [05 categorical embedding with NYC Taxi prediction]
+- [06 Sentiment analysis]
+- [07_Autoencoder]
+- [08_VAE]
+- [09_DCGAN(MINST)]
+- [10_Style Transfer]

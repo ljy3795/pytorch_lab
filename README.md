@@ -11,6 +11,8 @@
 - [04_classifier_cifar10](https://github.com/ljy3795/pytorch/blob/master/01_tuto/04_classifier_cifar10.ipynb)
 - [05_tensors_ex](https://github.com/ljy3795/pytorch/blob/master/01_tuto/05_tensors_ex.ipynb)
 - [06_transfer_leaning](https://github.com/ljy3795/pytorch/blob/master/01_tuto/06_transfer_learning.ipynb)
+- [07_gradient_on_and_off](https://github.com/ljy3795/pytorch_lab/blob/master/01_tuto/07_grad_on_and_off.ipynb)
+- [08_CNN_basics](https://github.com/ljy3795/pytorch_lab/blob/master/01_tuto/08_CNN_basics.ipynb)
 
 
 #### 2) PyTorch Lab
